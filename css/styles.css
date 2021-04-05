@@ -44,3 +44,12 @@ body {
   border-bottom: 1px solid #ddd;
   padding: 10px;
 }
+
+h3 > a:hover {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+h3 > a {
+  color: rgb(90, 90, 90);
+}
