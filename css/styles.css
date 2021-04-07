@@ -45,6 +45,10 @@ body {
   padding: 10px;
 }
 
+#myCarousel {
+  background: #512da8;
+}
+
 .carousel-item {
   height: 300px;
 }
